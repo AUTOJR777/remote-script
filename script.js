@@ -1,0 +1,2 @@
+console.log('SCRIPT REMOTO ATIVO');
+alert('EXTENSÃO CONECTADA AO GITHUB');
